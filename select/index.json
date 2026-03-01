@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "めざせポケモンマスター",
+  "base_artist": "Whiteberry",
+  "createdAt": "2026-03-01T04:22:16.581731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -with my friends - from THE FIRST TAKE",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": true,
+      "path": "select/01_めざせポケモンマスター_-with_my_friends_-_from_THE_FIRST_TAKE_サトシ(CV_松本梨香).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "marasy",
+      "has_synced": false,
+      "path": "select/02_めざせポケモンマスター_marasy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -20th Anniversary-",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/03_めざせポケモンマスター_-20th_Anniversary-_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -with my friends - from THE FIRST TAKE",
+      "artist": "Satoshi (CV: Rica Matsumoto)",
+      "has_synced": true,
+      "path": "select/04_めざせポケモンマスター_-with_my_friends_-_from_THE_FIRST_TAKE_Satoshi_(CV__Rica_Matsumoto).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/05_めざせポケモンマスター_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター (Whiteberry ver.)",
+      "artist": "Whiteberry",
+      "has_synced": true,
+      "path": "select/06_めざせポケモンマスター_(Whiteberry_ver.)_Whiteberry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "Whiteberry",
+      "has_synced": true,
+      "path": "select/07_めざせポケモンマスター_Whiteberry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -20th Anniversary-",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/08_めざせポケモンマスター_-20th_Anniversary-_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -20th Anniversary-",
+      "artist": "Rica Matsumoto",
+      "has_synced": true,
+      "path": "select/09_めざせポケモンマスター_-20th_Anniversary-_Rica_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -20th Anniversary-",
+      "artist": "Rica Matsumoto",
+      "has_synced": true,
+      "path": "select/10_めざせポケモンマスター_-20th_Anniversary-_Rica_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/11_めざせポケモンマスター_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター (Instrumental) / Mezase Pokemon Masutaa (Instrumental)",
+      "artist": "ホワイトベリー / Whiteberry",
+      "has_synced": true,
+      "path": "select/12_めざせポケモンマスター_(Instrumental)___Mezase_Pokemon_Masutaa_(Instrumental)_ホワイトベリー___Whiteberry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター (オリジナルカラオケ)",
+      "artist": "松本梨香",
+      "has_synced": false,
+      "path": "select/13_めざせポケモンマスター_(オリジナルカラオケ)_松本梨香.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "96neko",
+      "has_synced": false,
+      "path": "select/14_めざせポケモンマスター_96neko.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "SAMURAI J BAND",
+      "has_synced": false,
+      "path": "select/15_めざせポケモンマスター_SAMURAI_J_BAND.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "kobasolo",
+      "has_synced": false,
+      "path": "select/16_めざせポケモンマスター_kobasolo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター -20th Anniversary-",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/17_めざせポケモンマスター_-20th_Anniversary-_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "めざせポケモンマスター",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/18_めざせポケモンマスター_松本梨香.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "めざせポケモンマスター",
+      "artist": "Whiteberry",
+      "has_synced": false,
+      "path": "select/pl_01_めざせポケモンマスター_Whiteberry.txt"
+    }
+  ]
+}
